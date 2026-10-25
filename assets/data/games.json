@@ -1,0 +1,130 @@
+[
+  {
+    "id": "orbit-runner",
+    "title": "Orbit Runner",
+    "genre": "Arcade",
+    "platform": "Android",
+    "developer": "Nebula Studio",
+    "rating": 4.8,
+    "color": "FF6754AD",
+    "symbol": "rocket",
+    "description": "Jelajahi orbit planet dan kumpulkan energi kosmik. Atur waktu lompatan untuk melewati rintangan dalam sesi permainan singkat yang menantang.",
+    "features": [
+      "Level bertahap",
+      "Kontrol satu sentuhan",
+      "Mode tantangan harian"
+    ]
+  },
+  {
+    "id": "forest-tales",
+    "title": "Forest Tales",
+    "genre": "Adventure",
+    "platform": "Android / iOS",
+    "developer": "Moss Studio",
+    "rating": 4.7,
+    "color": "FF367B69",
+    "symbol": "forest",
+    "description": "Ikuti perjalanan penjaga hutan untuk memulihkan taman yang terlupakan. Temukan jalur rahasia, bantu penghuni hutan, dan selesaikan teka-teki lingkungan.",
+    "features": [
+      "Eksplorasi dunia",
+      "Cerita interaktif",
+      "Teka-teki lingkungan"
+    ]
+  },
+  {
+    "id": "neon-drift",
+    "title": "Neon Drift",
+    "genre": "Racing",
+    "platform": "Android",
+    "developer": "Pixel Road",
+    "rating": 4.6,
+    "color": "FFA44372",
+    "symbol": "car",
+    "description": "Kendalikan kendaraan futuristik melewati lintasan kota neon. Pelajari tikungan dan tingkatkan catatan waktu terbaik pada setiap sirkuit.",
+    "features": [
+      "Balapan berbasis waktu",
+      "Pilihan lintasan",
+      "Kustomisasi kendaraan"
+    ]
+  },
+  {
+    "id": "prism-puzzle",
+    "title": "Prism Puzzle",
+    "genre": "Puzzle",
+    "platform": "Android / iOS",
+    "developer": "Prism Lab",
+    "rating": 4.9,
+    "color": "FF9B7139",
+    "symbol": "puzzle",
+    "description": "Susun prisma berwarna untuk menghubungkan sumber cahaya. Setiap level memperkenalkan kombinasi baru yang melatih logika dan ketelitian.",
+    "features": [
+      "Puzzle logika",
+      "Tingkat kesulitan bertahap",
+      "Mode santai"
+    ]
+  },
+  {
+    "id": "sky-hopper",
+    "title": "Sky Hopper",
+    "genre": "Arcade",
+    "platform": "Android / iOS",
+    "developer": "Cloud Works",
+    "rating": 4.5,
+    "color": "FF39778F",
+    "symbol": "rocket",
+    "description": "Lompat dari pulau ke pulau di atas awan. Hindari celah, kumpulkan bintang, dan buka rute baru dalam petualangan arcade yang cerah.",
+    "features": [
+      "Kontrol sederhana",
+      "Rute bervariasi",
+      "Koleksi bintang"
+    ]
+  },
+  {
+    "id": "ember-quest",
+    "title": "Ember Quest",
+    "genre": "Adventure",
+    "platform": "Android",
+    "developer": "Ember Studio",
+    "rating": 4.7,
+    "color": "FF9A5740",
+    "symbol": "castle",
+    "description": "Jelajahi reruntuhan kerajaan untuk menemukan lentera yang hilang. Pecahkan misteri bangunan kuno dan bantu penduduk menemukan kembali jalan pulang.",
+    "features": [
+      "Petualangan cerita",
+      "Eksplorasi reruntuhan",
+      "Misi karakter"
+    ]
+  },
+  {
+    "id": "circuit-rush",
+    "title": "Circuit Rush",
+    "genre": "Racing",
+    "platform": "Android / iOS",
+    "developer": "Apex Lab",
+    "rating": 4.4,
+    "color": "FF416FA5",
+    "symbol": "car",
+    "description": "Uji konsentrasi pada lintasan sirkuit dengan tikungan tajam. Pilih kendaraan dan raih waktu terbaik melalui latihan yang konsisten.",
+    "features": [
+      "Sirkuit pendek",
+      "Pilihan kendaraan",
+      "Catatan waktu lokal"
+    ]
+  },
+  {
+    "id": "tiny-gardens",
+    "title": "Tiny Gardens",
+    "genre": "Puzzle",
+    "platform": "Android",
+    "developer": "Leaf Lab",
+    "rating": 4.8,
+    "color": "FF687F43",
+    "symbol": "forest",
+    "description": "Rancang kebun mungil dengan menyusun tanaman sesuai kebutuhan cahaya dan air. Selesaikan tantangan tata letak sambil menikmati suasana taman yang tenang.",
+    "features": [
+      "Puzzle tata letak",
+      "Tema kebun",
+      "Permainan santai"
+    ]
+  }
+]

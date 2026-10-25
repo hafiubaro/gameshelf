@@ -1,0 +1,13 @@
+ID,Skenario,Hasil yang diharapkan,Hasil aktual,Status
+U01,Buka aplikasi offline,8 game tampil dan 4 kategori tersedia,,Belum dijalankan
+U02,Cari ORBIT dengan spasi,Orbit Runner tampil,,Belum dijalankan
+U03,Cari kata yang tidak tersedia,Pesan Game tidak ditemukan,,Belum dijalankan
+U04,Pilih kategori Arcade,Hanya Orbit Runner dan Sky Hopper,,Belum dijalankan
+U05,Buka kartu Orbit Runner,Detail cocok dengan JSON,,Belum dijalankan
+U06,Simpan favorit lalu buka halaman favorit,Game tersimpan tampil,,Belum dijalankan
+U07,Hapus favorit dari detail,Daftar favorit diperbarui,,Belum dijalankan
+U08,Tombol kembali dari detail kategori,Kembali ke kategori sebelumnya,,Belum dijalankan
+U09,Uji lebar 320 800 dan 1200,Tidak overflow dan jumlah kolom menyesuaikan,,Belum dijalankan
+U10,Uji landscape dan teks 200 persen,Konten dapat dibaca dan digulir,,Belum dijalankan
+U11,Jalankan flutter analyze,Tidak ada error analyzer,,Belum dijalankan
+U12,Jalankan flutter test,13 kasus lulus,,Belum dijalankan
