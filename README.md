@@ -121,15 +121,3 @@ pengujian sebenarnya. Periksa juga landscape dan font sistem 150-200% pada peran
    JSON, test, dan scaffold platform yang sudah dibuat. Jangan upload build/.
 7. Upload PDF akhir ke Google Drive; atur akses pembaca sesuai ketentuan dosen.
 8. Periksa kedua tautan dari jendela privat sebelum dikumpulkan.
-
-Tautan GitHub dan Drive belum dibuat karena akun/tujuan publikasi belum diberikan.
-
-## Referensi teknis
-
-- Soal UTS(1).pdf, Mobile Programming, Ganjil 2025/2026.
-- https://docs.flutter.dev/cookbook/navigation/passing-data
-- https://api.flutter.dev/flutter/widgets/LayoutBuilder-class.html
-- https://docs.flutter.dev/ui/adaptive-responsive/general
-
-Rancangan di `docs/rancangan_ui.png` merupakan desain awal mandiri, bukan
-screenshot emulator dan bukan salinan contoh GUI pada soal.
